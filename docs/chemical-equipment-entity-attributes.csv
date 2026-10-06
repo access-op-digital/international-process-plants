@@ -1,0 +1,27 @@
+Entity,Associated entity,Attribute,Resolved value or rule,Source,Evidence status,Planned section
+Used chemical process equipment,International Process Plants,Intent,Buy individual chemical equipment and equipment packages,Workbook Overview and Page blueprint,Resolved page scope,Hero
+Used chemical process equipment,Existing equipment page,Canonical URL,https://internationalprocessplants.com/chemical-process-plant-equipment-used-systems-for-sale/,Live DOM and workbook Protect rankings,Verified live,Metadata
+Equipment categories,Reactors; heat exchangers; centrifuges; dryers; filters; distillation columns; tanks,Display order,Keep the seven categories in this order,Live page and workbook Protect rankings,Verified existing set,Categories
+Inventory collection,Chemical Processing Equipment family; centrifuges; dryers; filters,Dataset scope,Include the workbook-defined equipment families,Workbook Tracker R1-02,Scope resolved; current records required,Inventory
+Individual equipment,IPP stock number,Identifier,Exact identifier from the current IMS record,Current IMS record required,Unresolved; do not invent,Inventory card
+Individual equipment,Manufacturer and model,Identity,Exact maker and model where stated,Current IMS record required,Unresolved; omit missing fields,Inventory card
+Individual equipment,Type and subtype,Classification,Exact inventory classification,Current IMS record required,Unresolved; do not infer,Inventory card and filters
+Individual equipment,Material of construction,Material,Exact material and grade where stated,Current IMS record required,Unresolved; do not infer,Inventory card and filters
+Individual equipment,Condition,Condition value,Record-specific value with consistent labels,Current IMS record required,Unresolved; do not generalize,Inventory card and filters
+Individual equipment,Capacity,Capacity value and units,Documented value with metric and imperial units,Current IMS record required,Unresolved; conversions must be checked,Inventory card
+Individual equipment,Pressure and temperature,Design ratings,Record-specific ratings only where documented,Current IMS record required,Unresolved; no universal compliance claim,Inventory card
+Individual equipment,IMS detail page,View Specs destination,Exact publicly verified detail URL,Current IMS record required,Unresolved; verify before use,Inventory card
+Manufacturer,Inventory records,Stock association,Only makers represented by evidence-backed records,Current IMS records required,Unresolved; no dealership inference,Manufacturers
+International Process Plants,IPP,First mention,International Process Plants (IPP),Live page and workbook R1-13,Verified existing identity,Hero or introduction
+International Process Plants,Contact page,Enquiry destination,https://internationalprocessplants.com/contact/,Live navigation and workbook R0-01,Verified destination in live navigation,CTAs
+International Process Plants,Company history,Founding date,Leave out of new copy until conflicting year claims are resolved,Workbook D-03,Open decision,Introduction and schema
+International Process Plants,Inventory and global operations,Counts and superlatives,Do not present unresolved legacy claims as newly verified facts,Workbook D-04,Open decision,Introduction and proof
+International Process Plants,Ross Gale,Reviewer credit,Use company attribution until actual review is evidenced,Workbook D-02,Open decision,Attribution
+Buying process,Inspection,Inspection options,Existing answer states on-site and video inspections for most equipment,Live FAQ and workbook Protect rankings,Protected existing answer,FAQ
+Buying process,Shipping; financing; start-up support,Scope and terms,Verify exact services and terms before promising them,Workbook R1-05,Requested topic; business evidence required,Buying process
+Equipment sourcing,Producers; toll manufacturers; restructured facilities,Origin,Preserve the existing sourcing FAQ answer,Live FAQ and workbook Protect rankings,Protected existing answer,FAQ
+New equipment,Gale Process Solutions,Company destination,https://www.galeprocesssolutions.com/,Existing chemical-page link,Verified existing link; scope to recheck,New equipment options
+Glass-lined equipment,Universal Glasteel Equipment,Company destination,https://www.uge-inc.com/,Existing chemical-page link and requested skill,Verified existing link; scope to recheck,New and re-glassed options
+Complete chemical plants,Separate plants page,Destination,https://internationalprocessplants.com/sell-shut-down-chemical-processing-plant-assets-with-help-from-ipp/,Workbook Overview and Page blueprint,Resolved destination strategy,Complete plants cross-link
+Surplus chemical equipment,Sell Equipment page,Seller destination,https://internationalprocessplants.com/sell-equipment/,Workbook R1-07,Verify destination before build,Seller line
+Proof,Equipment acquisition and industry coverage,Event and source,Exact event date and fact after primary-source verification,Workbook R1-09 and Related articles,Candidates only; verify,Proof
