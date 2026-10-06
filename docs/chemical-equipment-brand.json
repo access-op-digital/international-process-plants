@@ -1,0 +1,36 @@
+{
+  "source": "https://internationalprocessplants.com/process-equipment/reactor/",
+  "inspected_on": "2026-10-07",
+  "method": "Rendered DOM computed styles and stylesheet values",
+  "fonts": {
+    "heading": "Montserrat, sans-serif",
+    "body": "Roboto, Arial, Helvetica, sans-serif",
+    "button": "Inter, sans-serif",
+    "navigation": "Montserrat, sans-serif"
+  },
+  "desktop": {
+    "h1": {"size_px": 40, "weight": 600},
+    "h2": {"size_px": 35, "weight": 600},
+    "h3": {"size_px": 20, "weight": 600},
+    "body": {"size_px": 16, "weight": 400},
+    "button": {"size_px": 15, "weight": 700, "radius_px": 5},
+    "navigation": {"size_px": 14, "weight": 600, "transform": "uppercase"}
+  },
+  "colors": {
+    "blue": "#1A8FC4",
+    "hero": "#183947",
+    "hero_card": "#2A5263",
+    "hero_card_border": "#3C7086",
+    "inventory_navy": "#18333E",
+    "deep_blue": "#134A62",
+    "body": "#333333",
+    "inventory_body": "#4A5A63",
+    "inventory_surface": "#F4F7F9",
+    "inventory_rule": "#E1E7EB"
+  },
+  "logo_source": "https://internationalprocessplants.com/wp-content/uploads/2023/12/IPP-LOGO_DARKBLUE-FINAL.png",
+  "notes": [
+    "The existing repository reactor draft has provisional styling and is not the brand authority.",
+    "Responsive measurements, font-file loading and image optimization remain build-stage checks."
+  ]
+}

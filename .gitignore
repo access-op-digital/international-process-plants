@@ -4,3 +4,8 @@ node_modules/
 *.log
 .env
 .env.*
+docs/chemical-build/sources/
+docs/chemical-build/inventory-detail.json
+docs/chemical-build/content/raw/
+__pycache__/
+.build-deps/
