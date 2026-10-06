@@ -1,3 +1,5 @@
+> **Superseded build scope (October 7, 2026):** The user supplied a revised outline and authorized the complete optimization in one draft. See [the implemented draft and tracker](chemical-build/README.md). The earlier staged/equipment-only proposal below remains historical analysis.
+
 # Chemical equipment landing page: analysis and repository intake
 
 Prepared 7 October 2026. Scope of this first step: analyze the supplied workbook, inspect the existing page and layout reference, and connect the specified repository. The landing page build and production rollout remain subsequent work.
